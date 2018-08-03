@@ -1,0 +1,5 @@
+bin
+obj
+*.depend
+*.layout
+cb_arm_stm_minimal_build_log.html
